@@ -29,6 +29,6 @@ By adding asterisks(*) or underscores(_) You can make the text *Italic*
 
 By adding double asterisks or underscores, cou can make the text **Bold**
 
-You can also ** combine  __them__**
+You can also **combine  __them__**
 
 If you want a ~~striketrough~~ you need to use two tildes (~).
