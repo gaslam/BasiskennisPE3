@@ -23,7 +23,7 @@ Alt-H1
 
 Alt-H2
 
-##Emphasis
+## Emphasis
 
 By adding asterisks(*) or underscores(_) You can make the text *Italic*
 
