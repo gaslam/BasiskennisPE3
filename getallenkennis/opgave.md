@@ -4,7 +4,7 @@
 
 Controleer de hamming-bits:
 
-** Hamming-bits: ** 1110110
+**Hamming-bits:** 1110110
 
 ## Uitwerking
 
