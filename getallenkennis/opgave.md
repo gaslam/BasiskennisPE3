@@ -30,10 +30,10 @@ Controleer de hamming-bits:
 
 | Hamming-bit | Optelling   | Correctie |
 | :-------------- | :-----------: | ---------: |
-| H1                  | (1) 111 = 1 | Juist        |
+| H1                  | (1) 110 = 0 | Fout        |
 | H2                  | (1) 110 = 0 | Fout        |
-| H4                  | (1) 111 = 1 | Juist        |
+| H4                  | (0) 111 = 1 | Juist        |
 
 # Oplossing
 
-1110110 = 1010110
+1110110 = 0010110
